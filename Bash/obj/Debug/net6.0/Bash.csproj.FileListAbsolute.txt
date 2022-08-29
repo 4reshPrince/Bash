@@ -1,0 +1,15 @@
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\bin\Debug\net6.0\Bash.exe
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\bin\Debug\net6.0\Bash.deps.json
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\bin\Debug\net6.0\Bash.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\bin\Debug\net6.0\Bash.dll
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\bin\Debug\net6.0\Bash.pdb
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.dll
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\refint\Bash.dll
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.pdb
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\Bash.genruntimeconfig.cache
+C:\Users\torell.jordan\Documents\Prog2\Bash\Bash\obj\Debug\net6.0\ref\Bash.dll
